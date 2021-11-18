@@ -200,7 +200,7 @@
   В HTML-документе, таким образом, остается только структура странички: сами блоки, их содержимое и расположение. <br>
 - [Что такое CSS-правило?](https://youtu.be/CjdCxxqObaM?t=228)
 - [Варианты добавление CSS стилей на страницу?](https://youtu.be/ycYp7CYOnO0?t=277)<br>
-  <link rel="stylesheet" href="mystyle.css"><br>
+  `<link rel="stylesheet" href="mystyle.css">`<br>
 - [Типы позиционирования в CSS?](https://youtu.be/ycYp7CYOnO0?t=321)<br>
   Базовый поток документа<br>
   CSS-свойство position<br>
