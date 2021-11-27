@@ -533,3 +533,11 @@
 - [Функция возврата индексов заглавных букв строки?](https://youtu.be/IooJ3P2VUYs?t=767)
 - [Функция вывода чисел от 1 до n (n - передаваемый аргумент)](https://youtu.be/w-vUj0gHGgg?t=746)
 - [Функция возврата уникальных значений из нескольких массивов?](https://youtu.be/G4iYlbilozM?t=752)
+  
+  
+  git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/egk01/angularbitcoins.git
+git push -u origin main
